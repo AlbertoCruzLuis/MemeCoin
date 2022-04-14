@@ -16,7 +16,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>MemeCoin</title>
+        <title>FoxCoin</title>
       </Head>
       <div className="flex flex-col gap-16">
         <div className="relative grid h-full grid-cols-2 gap-10 p-4 pt-40 pb-32 my-auto overflow-hidden xl:px-8 xs:grid-cols-1">
